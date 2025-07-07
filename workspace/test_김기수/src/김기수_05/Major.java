@@ -1,0 +1,5 @@
+package 김기수_05;
+
+public enum Major {COMPUTER_SCIENCE, CYBER_SECURITY, ARTIFICIAL_INTELLIGENCE
+
+}
